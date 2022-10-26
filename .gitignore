@@ -1,5 +1,5 @@
 # igonred because it contains too long paths
-/golden-tables
+**/golden-tables/*
 
 *#*#
 *.#*
